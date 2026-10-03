@@ -1,0 +1,4 @@
+model,cpu_percent,gpu_percent,ram_percent,avg_time_per_prompt_s,avg_tflops_per_prompt,prefill_tflops_per_s,decode_tflops_per_s,decode_tokens_per_s
+qwen_2.5,43.8,95.0,90.65,0.3,2.391,20.06,0.148,150.1
+llama_3.2,39.65,96.5,90.62,0.47,4.374,28.16,0.155,62.7
+phi_mini,30.37,98.85,89.7,2.91,21.03,22.61,0.2,26.1
